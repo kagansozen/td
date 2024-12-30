@@ -1,1 +1,1 @@
-This repository contains several touch designer projects.
+A collection of TouchDesigner projects.
